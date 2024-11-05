@@ -1,0 +1,5 @@
+Pour lancer le code, il faut mettre les pdfs pour lesquels il faut trier les images dans le répertoire PLU.
+Le code mettra à jour le pdf, cela peut prendre beaucoup de temps (conversion en word puis en pdf).
+
+Il faut penser à importer le répertoire Ressources et le mettre dans IA, il est disponible à l'adresse suivante:
+https://drive.google.com/file/d/1qxR3m9OFSBNulo4zkw3FLH2Rmpw4Xu2t/view?usp=sharing
