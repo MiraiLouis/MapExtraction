@@ -19,3 +19,5 @@ Ce projet vise à :
     Un ensemble de données et un package pour le mettre à jour régulièrement.
     Un article scientifique décrivant la méthodologie et l'ensemble de données (si tout se passe bien).
 
+## Collaborateurs:
+Un grand merci à mes collaborateurs Côme, Mouad, Clément et Romain.
